@@ -4,7 +4,7 @@
 [![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://techforpalestine.org/learn-more)
 
 
-# WavePlayerView ![http://developer.android.com/index.html](https://github.com/alex11111115/WavePlayerView/assets/96258291/3fc4547a-a929-43c3-8cf0-ee16b066fb7e)
+# WavePlayer ![http://developer.android.com/index.html](https://github.com/alex11111115/WavePlayerView/assets/96258291/3fc4547a-a929-43c3-8cf0-ee16b066fb7e)
 
 <p align="center"> <a href="https://github.com/alex11111115/WavePlayerView">
   <img src="https://img.shields.io/badge/WavePlayerView-8E8DE5?style=flat&labelColor=E8D8FB&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjQwIiB2aWV3Qm94PSIwIDAgMTAwIDQwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxwYXRoIGQ9Ik0gMCwyMCBDIDEwLDcuNSAyMCwyMCAzMCw3LjUgNDAsMjAgNTAsNy41IDYwLDIwIDcwLDcuNSA4MCwyMCA5MCw3LjUgMTAwLDIwIiBzdHlsZT0iZmlsbDpub25lO3N0cm9rZTojOEU4REU1O3N0cm9rZS13aWR0aDoqNztzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7IiAvPgogIDxwYXRoIGQ9Ik0gMCwyNSBDIDEwLDEyLjUgMjAsMjUgMzAsMTIuNSA0MCwyNSA1MCwxMi41IDYwLDI1IDcwLDEyLjUgODAsMjUgOTAsMTIuNSAxMDAsMjUiIHN0eWxlPSJmaWxsOm5vbmU7c3Ryb2tlOiM4RThERTU7c3Ryb2tlLXdpZHRoOjc7c3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kOyIgLz4KPC9zdmc+" alt="WavePlayerView Logo" style="width: 180px; height: 28px; margin-right: 10px;">
@@ -25,7 +25,7 @@
 - 🔁 **Repeat Playback**: Ability to set repeated playback of the audio file.
 
 
-## 🤔 Why use WavePlayerView?
+## 🤔 Why use WavePlayerView in your player?
 
 - 🚀 **High Performance**: Designed for high efficiency with minimal impact on your app's performance.
 - 🔓 **Open Source**: Full access to the source code for customization and optimization.
